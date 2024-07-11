@@ -277,6 +277,7 @@ textarea {
 
 .projects__row {
   display: grid;
+  width: 80%;
   grid-template-columns: 1.5fr 1fr;
   grid-gap: 5rem;
   margin-bottom: 11rem; }
@@ -293,7 +294,7 @@ textarea {
   .projects__row-img-cont {
     overflow: hidden; }
   .projects__row-img {
-    width: 100%;
+    width: 80%;
     display: block;
     object-fit: cover; }
   .projects__row-content {
